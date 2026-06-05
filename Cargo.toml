@@ -1,0 +1,10 @@
+[package]
+name = "ternary-blockchain"
+version = "0.1.0"
+edition = "2021"
+description = "Balanced ternary blockchain primitives: hash, transactions, blocks, Merkle trees, proof-of-work"
+license = "MIT"
+
+[dependencies]
+
+[dev-dependencies]
